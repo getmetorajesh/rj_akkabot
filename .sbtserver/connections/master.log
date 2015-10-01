@@ -1,0 +1,31 @@
+New log file opened at Thu Oct 01 18:02:08 EST 2015 by 18261@WyndhamAppDev2.local
+Taking next connection to: 56414
+New client attempting to connect on port: 56415-56414
+  Address = /10.100.3.131:56414
+This client on port 56415 has uuid fe6946f6-6d16-4041-a8b9-296e0cb68214 configName activator humanReadableName Activator protocolVersion 3 featureTags Vector()
+Connected Clients: activator-fe6946f6-6d16-4041-a8b9-296e0cb68214
+Taking next connection to: 56414
+Checking to see if clients are empty...
+We have 1 non-daemon clients, continuing serving connections.
+Taking next connection to: 56414
+Checking to see if clients are empty...
+We have 1 non-daemon clients, continuing serving connections.
+Taking next connection to: 56414
+Checking to see if clients are empty...
+We have 1 non-daemon clients, continuing serving connections.
+Taking next connection to: 56414
+Checking to see if clients are empty...
+We have 1 non-daemon clients, continuing serving connections.
+Taking next connection to: 56414
+Checking to see if clients are empty...
+We have 1 non-daemon clients, continuing serving connections.
+Taking next connection to: 56414
+Checking to see if clients are empty...
+We have 1 non-daemon clients, continuing serving connections.
+Taking next connection to: 56414
+Checking to see if clients are empty...
+We have 1 non-daemon clients, continuing serving connections.
+Taking next connection to: 56414
+Checking to see if clients are empty...
+We have 1 non-daemon clients, continuing serving connections.
+Taking next connection to: 56414
